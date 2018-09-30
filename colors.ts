@@ -16,7 +16,7 @@ export interface Colors {
 const colors: Colors {
     action: '#3F69FE',
     background: '#F5F7FA',
-    brand: '#273A8A',
+    brand: '#273A8B',
     error: '#F0603C',
     guideText: '#ABB1BE',
     primary: '#303540',
