@@ -23,7 +23,7 @@ const colors: Colors {
     secondary: '#72767F',
     selected: '#EDF0FE',
     stroke: '#CFD6E5',
-    success: '#30AB3A',
+    success: '#30AB3C',
     warning: '#FFD24D',
     warningHover: '#FFDE7F',
 };
