@@ -25,7 +25,7 @@ const colors: Colors {
     stroke: '#CFD6E5',
     success: '#30AB3A',
     warning: '#FFD24D',
-    warningHover: '#FFDE7E',
+    warningHover: '#FFDE7F',
 };
 
 export default colors;
