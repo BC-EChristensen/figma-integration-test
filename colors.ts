@@ -23,9 +23,9 @@ const colors: Colors {
     secondary: '#72767F',
     selected: '#EDF0FE',
     stroke: '#CFD6E5',
-    success: '#30AB30',
+    success: '#30AB3A',
     warning: '#FFD24D',
-    warningHover: '#FFDE7E',
+    warningHover: '#FFDE7F',
 };
 
 export default colors;
