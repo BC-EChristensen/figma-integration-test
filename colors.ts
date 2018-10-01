@@ -4,10 +4,10 @@ export interface Colors {
     black: string;
     brand: string;
     darkGrey: string;
+    dimGrey: string;
     error: string;
-    guideText: string;
+    grey: string;
     selected: string;
-    stroke: string;
     success: string;
     warning: string;
     warningHover: string;
@@ -19,10 +19,10 @@ const colors: Colors {
     black: '#303540',
     brand: '#273A8F',
     darkGrey: '#72767F',
+    dimGrey: '#ABB1BE',
     error: '#F0603C',
-    guideText: '#ABB1BE',
+    grey: '#D3D9E5',
     selected: '#EDF0FE',
-    stroke: '#CFD6E5',
     success: '#30AB3C',
     warning: '#FFD24D',
     warningHover: '#FFDE7F',
