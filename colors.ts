@@ -29,7 +29,7 @@ const colors: Colors {
     success: '#30AB3C',
     warning: '#FFD24D',
     warningHover: '#FFDE7F',
-    white: '#F5F7FA',
+    white: '#FFFFFF',
 };
 
 export default colors;
