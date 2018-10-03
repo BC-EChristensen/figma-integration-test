@@ -5,10 +5,10 @@ export interface Colors {
     brightGrey: string;
     darkGrey: string;
     dimGrey: string;
+    ee: string;
     error: string;
     grey: string;
     lightGrey: string;
-    selected: string;
     success: string;
     warning: string;
     warningHover: string;
@@ -22,10 +22,10 @@ const colors: Colors {
     brightGrey: '#F5F7FA',
     darkGrey: '#72767F',
     dimGrey: '#ABB1BE',
+    ee: '#EDF0FE',
     error: '#F0603C',
     grey: '#D3D9E5',
     lightGrey: '#ECEFF4',
-    selected: '#EDF0FE',
     success: '#30AB3C',
     warning: '#FFD24D',
     warningHover: '#FFDE7F',
