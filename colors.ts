@@ -5,7 +5,7 @@ export interface Colors {
     brightGrey: string;
     darkGrey: string;
     dimGrey: string;
-    ee: string;
+    eriksGrey: string;
     error: string;
     grey: string;
     lightGrey: string;
@@ -22,7 +22,7 @@ const colors: Colors {
     brightGrey: '#F5F7FA',
     darkGrey: '#72767F',
     dimGrey: '#ABB1BE',
-    ee: '#EDF0FE',
+    eriksGrey: '#EDF0FE',
     error: '#F0603C',
     grey: '#D3D9E5',
     lightGrey: '#ECEFF4',
